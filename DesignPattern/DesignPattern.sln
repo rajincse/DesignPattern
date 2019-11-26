@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{F301869C-4EB6-499B-B202-861E2F05041A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{F301869C-4EB6-499B-B202-861E2F05041A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizationPlay", "SynchronizationPlay\SynchronizationPlay.csproj", "{FC9876AF-96A2-4B6A-BF9A-35294B7E4680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F301869C-4EB6-499B-B202-861E2F05041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F301869C-4EB6-499B-B202-861E2F05041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F301869C-4EB6-499B-B202-861E2F05041A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9876AF-96A2-4B6A-BF9A-35294B7E4680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9876AF-96A2-4B6A-BF9A-35294B7E4680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9876AF-96A2-4B6A-BF9A-35294B7E4680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9876AF-96A2-4B6A-BF9A-35294B7E4680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
